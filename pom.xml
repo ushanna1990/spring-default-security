@@ -17,7 +17,6 @@
     <packaging>jar</packaging>
 	<description>Basic security project for Spring Boot</description>
 
-
     <scm>
         <connection>scm:git:https://github.com/ushanna1990/spring-basic-security.git</connection>
         <developerConnection>scm:git:git@github.com:ushanna1990/spring-basic-security.git</developerConnection>
