@@ -18,7 +18,7 @@
 	<description>Default security project for Spring Boot</description>
 
     <scm>
-        <connection>scm:git:https://github.com/ushanna1990/spring-basic-default.git</connection>
+        <connection>scm:git:https://github.com/ushanna1990/spring-default-security.git</connection>
         <developerConnection>scm:git:git@github.com:ushanna1990/spring-default-security.git</developerConnection>
         <url>https://github.com/ushanna1990/spring-default-security</url>
         <tag>HEAD</tag>
