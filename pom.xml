@@ -11,16 +11,16 @@
 	</parent>
 
 	<groupId>com.example</groupId>
-	<artifactId>spring-basic-security</artifactId>
+	<artifactId>spring-default-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-basic-security</name>
+	<name>spring-default-security</name>
     <packaging>jar</packaging>
-	<description>Basic security project for Spring Boot</description>
+	<description>Default security project for Spring Boot</description>
 
     <scm>
-        <connection>scm:git:https://github.com/ushanna1990/spring-basic-security.git</connection>
-        <developerConnection>scm:git:git@github.com:ushanna1990/spring-basic-security.git</developerConnection>
-        <url>https://github.com/ushanna1990/spring-basic-security</url>
+        <connection>scm:git:https://github.com/ushanna1990/spring-basic-default.git</connection>
+        <developerConnection>scm:git:git@github.com:ushanna1990/spring-default-security.git</developerConnection>
+        <url>https://github.com/ushanna1990/spring-default-security</url>
         <tag>HEAD</tag>
     </scm>
 
