@@ -10,6 +10,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
+    <groupId>com.spring.security</groupId>
 	<artifactId>spring-default-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-default-security</name>
